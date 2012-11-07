@@ -1,0 +1,10 @@
+Package: teamrpack
+Type: Package
+Title: How much Ice do We need?
+Version: 1.0
+Date: 2012-11-07
+Depends: tikzDevice
+Author: Yen Theng Tan, Joyce Tan 
+Maintainer: Yen Theng Tan <yen@jhu.edu>
+Description: Team project, sponsored by McDonalds, to experiment with and calculate the optimal amount of ice when serving a large cup of soda.
+License: GPL-3
